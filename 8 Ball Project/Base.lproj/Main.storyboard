@@ -60,7 +60,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="LabeToUse" destination="cSP-Lg-A2Y" id="U6d-IK-NaE"/>
+                        <outlet property="TheLable" destination="cSP-Lg-A2Y" id="fAH-KO-7yo"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
